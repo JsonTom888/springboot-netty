@@ -41,7 +41,6 @@
             <version>4.1.17.Final</version>
         </dependency>
         <!-- 解码and编码器 -->
-        <!-- https://mvnrepository.com/artifact/org.msgpack/msgpack -->
         <dependency>
             <groupId>org.msgpack</groupId>
             <artifactId>msgpack</artifactId>
