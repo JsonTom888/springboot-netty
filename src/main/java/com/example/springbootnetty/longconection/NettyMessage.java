@@ -22,5 +22,4 @@ public class NettyMessage implements Serializable {
     // 消息内容
     private String body;
 
-
 }
